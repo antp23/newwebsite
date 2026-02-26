@@ -32,9 +32,8 @@ export default function AdvisoryPage() {
           secondaryCtaLink="/contact?persona=enterprise"
         />
 
-        {/* 2. ServiceChallenge — [NEEDS COPY] No advisory-specific challenge statement in deliverable.
-           Placeholder derived from card body + Section 09 Card 03 enterprise pain statement. */}
-        <ServiceChallenge body="Federal agencies and health systems that have outgrown what their current distribution infrastructure can tell them face a specific gap: the intelligence layer does not exist. Policy decisions are made on lagging data. Procurement modernization is advised by firms that have never managed a supply chain. The guidance is theoretical. The stakes are not." />
+        {/* 2. ServiceChallenge — Copy Deliverable Supplement 5b */}
+        <ServiceChallenge body="Federal agencies managing healthcare procurement face a structural information gap: the consultants who advise them have never operated the infrastructure they're recommending changes to. iRemedy has. We distributed critical supplies under federal contract during Operation Warp Speed — and built the compliance architecture to prove it. Our advisory work is grounded in operational reality, not policy theory." />
 
         {/* 3. HowItWorksService — Steps derived from Section 06 Tab 04 card body */}
         <HowItWorksService
@@ -50,7 +49,7 @@ export default function AdvisoryPage() {
               number: "02",
               headline: "Domestic Sourcing Strategy.",
               body: "Domestic sourcing strategy and supply chain resilience recommendations backed by direct manufacturer relationships and real-time market intelligence from MetaCommerceRx\u2122.",
-              stat: "[NEEDS COPY]",
+              stat: "Policy recommendations grounded in live distribution infrastructure \u2014 not modeled projections or third-party estimates.",
             },
             {
               number: "03",

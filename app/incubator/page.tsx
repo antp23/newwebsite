@@ -53,7 +53,7 @@ export default function IncubatorPage() {
               number: "03",
               headline: "Reach Your Market.",
               body: "The Incubator puts your product in front of the providers who need it — through MetaCommerceRx\u2122, iRemedy\u2019s patented procurement intelligence platform. Real buyers. Real demand. Real revenue. In weeks, not years.",
-              stat: "[NEEDS COPY]",
+              stat: "Ongoing DEA, FDA, and DSCSA compliance monitoring — managed by iRemedy, not by your team.",
             },
           ]}
         />

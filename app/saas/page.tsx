@@ -8,13 +8,11 @@ import ServiceCTA from "@/components/ServiceCTA";
 import RelatedServices from "@/components/RelatedServices";
 import Footer from "@/components/Footer";
 
-/* [NEEDS COPY] — No SaaS-specific meta title/description in Copy Deliverable Section 10.
-   Placeholder derived from Section 06 Tab 03 card copy. */
 export const metadata: Metadata = {
   title:
-    "SaaS Platform — Procurement Intelligence for Providers · iRemedy",
+    "SaaS Platform — Procurement Intelligence for Healthcare Teams · iRemedy",
   description:
-    "MetaCommerceRx\u2122 as a subscription. Real-time pricing benchmarks, formulary optimization, spend analytics, and compliance monitoring — built for procurement teams.",
+    "MetaCommerceRx\u2122 as a subscription. Real-time pricing benchmarks, formulary optimization, spend analytics, and compliance monitoring for procurement teams who have outgrown spreadsheets and distributor catalogs. 50,000+ SKUs. ERP-connected.",
 };
 
 export default function SaaSPage() {
@@ -51,7 +49,7 @@ export default function SaaSPage() {
               number: "02",
               headline: "Optimize Your Formulary.",
               body: "MetaCommerceRx\u2122 surfaces substitution opportunities your team would take hours to find manually, benchmarks your current spend against live market rates, and identifies where your formulary decisions are costing you money you could keep.",
-              stat: "[NEEDS COPY]",
+              stat: "Live benchmarking across 50,000+ SKUs. Updated continuously from direct manufacturer pricing data.",
             },
             {
               number: "03",

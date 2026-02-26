@@ -8,13 +8,11 @@ import ServiceCTA from "@/components/ServiceCTA";
 import RelatedServices from "@/components/RelatedServices";
 import Footer from "@/components/Footer";
 
-/* [NEEDS COPY] — No intelligence-specific meta title/description in Copy Deliverable Section 10.
-   Placeholder derived from Section 06 Tab 05 card copy. */
 export const metadata: Metadata = {
   title:
-    "Market Intelligence — Real-Time Procurement Data for Health Systems · iRemedy",
+    "Market Intelligence — Real-Time Healthcare Procurement Data · iRemedy",
   description:
-    "Real-time pricing benchmarks, manufacturer capacity signals, formulary intelligence, and substitution analytics — delivered as a market intelligence subscription for GPOs, health systems, and institutional procurement teams.",
+    "Real-time pricing benchmarks, manufacturer capacity signals, formulary intelligence, and substitution analytics for GPOs, health systems, and institutional procurement teams. Sourced from direct manufacturer relationships. Updated continuously.",
 };
 
 export default function IntelligencePage() {
@@ -51,13 +49,13 @@ export default function IntelligencePage() {
               number: "02",
               headline: "Formulary Intelligence.",
               body: "Substitution analytics that surface equivalent SKUs at lower cost, automatically benchmarked against live market rates. Your formulary decisions are informed by data that did not exist before MetaCommerceRx\u2122.",
-              stat: "[NEEDS COPY]",
+              stat: "Manufacturer capacity signals and availability data \u2014 surfaced before shortages reach your formulary.",
             },
             {
               number: "03",
               headline: "Capacity and Supply Signals.",
               body: "Manufacturer capacity signals, availability data, and supply chain disruption indicators — delivered to institutional procurement teams who need to plan, not react.",
-              stat: "[NEEDS COPY]",
+              stat: "Substitution analytics across equivalent SKUs \u2014 ranked by cost, availability, and compliance status in real time.",
             },
           ]}
         />
