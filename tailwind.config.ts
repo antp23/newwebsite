@@ -18,6 +18,14 @@ const config: Config = {
         lightblue: "#E8F4FC",
         danger: "#8B0000",
         success: "#1A6B3A",
+        // Old system reds
+        "old-node": "#FFF5F5",
+        "old-final": "#FFE8E8",
+        "old-arrow": "#CC4444",
+        "old-dark": "#8B0000",
+        // iRemedy greens
+        "remedy-node": "#F0FFF4",
+        "remedy-text": "#1A6B3A",
       },
       fontFamily: {
         sans: ["Open Sans", "system-ui", "sans-serif"],
