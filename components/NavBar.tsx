@@ -17,7 +17,7 @@ export default function NavBar() {
     { label: "Platform", href: "#platform" },
     { label: "Solutions", href: "#solutions" },
     { label: "Resources", href: "#proof" },
-    { label: "About", href: "#about" },
+    { label: "About", href: "/about" },
   ];
 
   return (
